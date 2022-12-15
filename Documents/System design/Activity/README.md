@@ -6,5 +6,5 @@
 <a name="1"/>
 
 # 1. Начало работы и выбор режима
-![Диаграмма активностей](../../../Images/System%20design/Activity/ActionDiskFileSystemCheck.png)
+![Диаграмма активностей](../../../ImagesActivity.png)
 
