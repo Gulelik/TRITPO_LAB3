@@ -2,7 +2,7 @@
 ---
 
 # Содержание
-1 [Диаграмма вариантов использования](Document/System design/UseCase/README.md)  
+1 [Диаграмма вариантов использования](Document/System_design/UseCase/README.md)  
 2 [Диаграммы активностей](Activity/README.md)  
 3 [Диаграммы последовательностей](Sequence/README.md)
 4 [Диаграмма классов](Class/README.md)  
